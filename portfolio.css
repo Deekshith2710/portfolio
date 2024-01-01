@@ -1,0 +1,52 @@
+
+.nav-link:hover{
+    background-color: #ffffff;
+    
+}
+
+
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+ul{
+    height: 50px;
+    justify-content: flex-end   ;
+}
+
+img{
+    height: 50px;
+
+}
+
+.info {
+    text-align: left;
+   margin-top: 10%;
+ 
+}
+.education{
+    text-align: left;
+    margin-top: 5%;
+}
+#name{
+    color: #970e0e;
+
+}
+.image{
+    margin-right:30% ;
+    
+}
+.btn {
+    height: 50px;
+    width: 150px;
+}
+
+
